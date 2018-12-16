@@ -4,6 +4,6 @@ até o momento. Para validar que concordou com o projeto, digite o "nome complet
 
 1-LUCAS CRUZ VILAÇA RODRIGUES - OK
 2-ISABELA D'ABADIA MORAIS - OK
-3-
+3-HIGOR GOMES DE LIMA - OK
 4-
 5-
