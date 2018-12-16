@@ -3,7 +3,7 @@ Cada membro da equipe do projeto deve ler o plano, cronograma e requisitos e dar
 até o momento. Para validar que concordou com o projeto, digite o "nome completo - OK".
 
 1-LUCAS CRUZ VILAÇA RODRIGUES - OK
-2-
+2-ISABELA D'ABADIA MORAIS - OK
 3-
 4-
 5-
