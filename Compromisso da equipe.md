@@ -6,4 +6,4 @@ até o momento. Para validar que concordou com o projeto, digite o "nome complet
 2-ISABELA D'ABADIA MORAIS - OK
 3-HIGOR GOMES DE LIMA - OK
 4-GABRIEL ANGELO G. M. DE ALMEIDA - OK
-5-
+5- GABRIELA LÊDO FRANCO - OK
